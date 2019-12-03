@@ -1,0 +1,25 @@
+cheats = 6
+
+cheat0_desc = "Maximum Gil"
+cheat0_code = "BCBD7020 6850E446"
+cheat0_enable = false
+
+cheat1_desc = "Any Spell Learned Is Mastered"
+cheat1_code = "32C18EAD 9159667A+5F6C4544 F16A1F95+EDC28C55 C186BAAE+31D45636 E5367589"
+cheat1_enable = false
+
+cheat2_desc = "Complete Bestiary"
+cheat2_code = "42002418 80FF+000000A9 0002"
+cheat2_enable = false
+
+cheat3_desc = "Max HP - All Characters"
+cheat3_code = "42001F42 270F+00000004 0080+42001F44 270F+00000004 0080"
+cheat3_enable = false
+
+cheat4_desc = "Max MP - All Characters"
+cheat4_code = "42001F46 03E7+00000004 0080+42001F48 03E7+00000004 0080"
+cheat4_enable = false
+
+cheat5_desc = "Have 99 of Every Item [Glitches Inventory With Key Items]"
+cheat5_code = "D0C4A641 C28DB27F+2B273FF8 068B077E+AE78EA64 5E5E9C38+ECB5DADA 797DC699+2316A279 BCDFC158"
+cheat5_enable = false
