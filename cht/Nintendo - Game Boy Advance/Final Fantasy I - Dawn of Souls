@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Complete Bestiary"
+cheat0_code = "41D73B5D 1061F33D+CA6C110C EAD6A659"
+cheat0_enable = false
+
+cheat1_desc = "Maximum Gil"
+cheat1_code = "92650631 D082C2B9"
+cheat1_enable = false
+
+cheat2_desc = "Slot 1 - 99 Items"
+cheat2_code = "320027EE 0063"
+cheat2_enable = false
